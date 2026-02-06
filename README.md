@@ -1,2 +1,2 @@
 # semester1_project
-Battle Ship Royal Game (Computer vs Player) 
+Battle Ship Royal Game (Player vs Player) 
