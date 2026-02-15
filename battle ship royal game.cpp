@@ -1795,14 +1795,11 @@ void game()
 		<<"--------------------------------------------------------------------------------------"<<endl;
 	setColor(7, 0);
 
-	cout<<"                          NAME: HAMNA NOOR"<<endl
-		<<"                         ROLL No. 251-3113"<<endl
-		<<"                            CLASS: SE-D"<<endl;
+	cout<<"                          NAME: HAMNA NOOR"<<endl;
 	setColor(5, 0);
 	cout<<"                 PROGRAMMING FUNDAMENTAL PROJECT"<<endl;
 	setColor(7, 0);
-	cout<<"                SUBMITTED TO: SIR BILAL KHALID DAR"<<endl 
-		<<"                  DEPARTMENT OF COMPUTER SCIENCE"<<endl 
+	cout<<"                  DEPARTMENT OF COMPUTER SCIENCE"<<endl 
 		<<"                          FAST NUCES"<<endl;
 		setColor(3, 0);
 	cout<<"--------------------------------------------------------------------------------------"<<endl
@@ -1832,6 +1829,7 @@ int main()
 //	showGameMenu();
 	game();
 }
+
 
 
 
