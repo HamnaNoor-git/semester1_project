@@ -1,5 +1,5 @@
  #include<iostream>
-#include<ctime>
+#include<ctime> 
 #include<string>
 #include <fstream>
 #include <conio.h>
